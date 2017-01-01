@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">News App</string>
+
+    <string name="searchButtonText">Search</string>
+
+    <string name="searchPlaceholder">Search by keywords</string>
+    <string name="searchIntent">SearchKeywords</string>
+
+</resources>
